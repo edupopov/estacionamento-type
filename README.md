@@ -139,5 +139,7 @@ rm -f csv/*.csv csv/resumo_diario.txt
 * **Tarifas por tipo de veículo** (carro/moto/caminhão) e por período (diurno/noturno).
 * **Relatórios**: faturamento por dia/mê
 
+<img width="1832" height="1068" alt="image" src="https://github.com/user-attachments/assets/7c4b6138-0b08-40fc-8ea4-06585f9c06f0" />
+
 <img width="1745" height="921" alt="image" src="https://github.com/user-attachments/assets/815bd549-9cec-4612-8d7d-65b106f7e81e" />
 <img width="1060" height="694" alt="image" src="https://github.com/user-attachments/assets/b58a8a29-26d1-429d-939d-7ace35d71159" />
